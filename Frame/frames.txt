@@ -1,1 +1,75 @@
-hi
+{
+  "portrait":[
+  "https://raw.githubusercontent.com/Parth777-andro/dhan/main/Pic/1.wbep",
+    "https://raw.githubusercontent.com/Parth777-andro/dhan/main/Pic/2.wbep",
+      "https://raw.githubusercontent.com/Parth777-andro/dhan/main/Pic/3.wbep",
+      "https://raw.githubusercontent.com/Parth777-andro/dhan/main/Pic/4.wbep",
+
+    "https://raw.githubusercontent.com/Parth777-andro/dhan/main/Pic/5.wbep",
+
+      "https://raw.githubusercontent.com/Parth777-andro/dhan/main/Pic/6.wbep",
+"https://raw.githubusercontent.com/Parth777-andro/dhan/main/Pic/7.wbep",
+
+    "https://raw.githubusercontent.com/Parth777-andro/dhan/main/Pic/8.wbep",
+
+      "https://raw.githubusercontent.com/Parth777-andro/dhan/main/Pic/9.wbep",
+
+      "https://raw.githubusercontent.com/Parth777-andro/dhan/main/Pic/10.wbep",
+
+    "https://raw.githubusercontent.com/Parth777-andro/dhan/main/Pic/11.wbep",
+
+      "https://raw.githubusercontent.com/Parth777-andro/dhan/main/Pic/12.wbep",
+
+      "https://raw.githubusercontent.com/Parth777-andro/dhan/main/Pic/13.wbep",
+
+    "https://raw.githubusercontent.com/Parth777-andro/dhan/main/Pic/14.wbep",
+
+      "https://raw.githubusercontent.com/Parth777-andro/dhan/main/Pic/15.wbep",
+"https://raw.githubusercontent.com/Parth777-andro/dhan/main/Pic/16.wbep",
+    "https://raw.githubusercontent.com/Parth777-andro/dhan/main/Pic/17.wbep",
+      "https://raw.githubusercontent.com/Parth777-andro/dhan/main/Pic/18.wbep",
+	        "https://raw.githubusercontent.com/Parth777-andro/dhan/main/Pic/19.wbep",
+
+
+    "https://raw.githubusercontent.com/Parth777-andro/dhan/main/Pic/20.wbep",
+
+      "https://raw.githubusercontent.com/Parth777-andro/dhan/main/Pic/21.wbep",
+
+    "https://raw.githubusercontent.com/Parth777-andro/dhan/main/Pic/22.wbep",
+
+      "https://raw.githubusercontent.com/Parth777-andro/dhan/main/Pic/23.wbep"
+       ],
+  "landscape":[
+  
+  
+
+    
+ "https://raw.githubusercontent.com/Parth777-andro/dhan/main/Pic/24.png",
+    "https://raw.githubusercontent.com/Parth777-andro/dhan/main/Pic/25.png",
+      "https://raw.githubusercontent.com/Parth777-andro/dhan/main/Pic/26.png",
+      "https://raw.githubusercontent.com/Parth777-andro/dhan/main/Pic/27.png",
+
+    "https://raw.githubusercontent.com/Parth777-andro/dhan/main/Pic/28.png",
+
+      "https://raw.githubusercontent.com/Parth777-andro/dhan/main/Pic/29.png",
+"https://raw.githubusercontent.com/Parth777-andro/dhan/main/Pic/30.png",
+
+    "https://raw.githubusercontent.com/Parth777-andro/dhan/main/Pic/31.png",
+
+      "https://raw.githubusercontent.com/Parth777-andro/dhan/main/Pic/32.png",
+
+      "https://raw.githubusercontent.com/Parth777-andro/dhan/main/Pic/33.png",
+
+    "https://raw.githubusercontent.com/Parth777-andro/dhan/main/Pic/34.png",
+
+      "https://raw.githubusercontent.com/Parth777-andro/dhan/main/Pic/35.png",
+
+      "https://raw.githubusercontent.com/Parth777-andro/dhan/main/Pic/36.png",
+
+    "https://raw.githubusercontent.com/Parth777-andro/dhan/main/Pic/37.png",
+
+      "https://raw.githubusercontent.com/Parth777-andro/dhan/main/Pic/38.png",
+"https://raw.githubusercontent.com/Parth777-andro/dhan/main/Pic/39.png"
+    
+    ]
+}
